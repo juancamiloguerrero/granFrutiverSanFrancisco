@@ -17,7 +17,7 @@ import Image from 'next/image'
 
 export default function AboutUs() {
   return (
-    <section className="max-w-6xl mx-auto py-12 px-4">
+    <section className="max-w-6xl mx-auto px-4">
       <SectionTitle text="Acerca de Nosotros" />
 
       <p className="text-xl mb-4 text-justify">
